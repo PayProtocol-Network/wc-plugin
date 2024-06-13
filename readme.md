@@ -76,15 +76,11 @@ If you run into any problems, or if you simply wish to discuss something with ou
 
 - BD Email: bd@payprotocol.network
 
-- Twitter：
+- Twitter：https://twitter.com/pay_protocol
 
-- Discord：
+- Discord：https://discord.gg/JWpjkDq5Eb
 
-- Medium：
-
-- Telegram：
-
-- YouTobe：
+- Telegram：https://t.me/pay_protocol
 
 ## Changelog
 
